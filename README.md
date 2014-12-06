@@ -10,7 +10,7 @@ _Later_, *as a man*, I bought the market and bulldozed it.
 ### I am smallest
 #### How small can you go?
 ##### What do you think
-##### Do you like my new brooch?
+###### Do you like my new brooch?
 
     I am indented four spaces
 
@@ -19,3 +19,6 @@ There once was a man from Nantucket
 
 ^Arbitrary command
 !this is important!
+
+Do all these lines^ appear on the same 
+... line?
