@@ -5,7 +5,7 @@ I went to the market as a little boy, but they were all out of ice cream.
 
 _Later_, *as a man*, I bought the market and bulldozed it.
 
-# I am Not Ashamed
+# I also own all the dairy cows
 ## I am smaller
 ### I am smallest
 
